@@ -5,7 +5,7 @@ A VS Code extension for writing [CodeGame](https://github.com/code-game-project)
 
 ## Features
 
-- Syntax highlighting `.cge` files
+- Syntax highlighting for `.cge` files
 
 ## Installation
 
