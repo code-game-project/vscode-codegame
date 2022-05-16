@@ -9,12 +9,12 @@ A VS Code extension for writing [CodeGame](https://github.com/code-game-project)
 
 ## Installation
 
-- [Download](https://github.com/code-game-project/vscode-codegame/releases) the `*.vsix` file.
-- Open the _Extensions_ tab in VS Code.
-- Press the three dots in the top right corner of the _Extensions_ window.
-- Choose _Install from VSIX…_.
-- Select the downloaded file.
-- Hit _Open_.
+1. [Download](https://github.com/code-game-project/vscode-codegame/releases) the `*.vsix` file.
+2. Open the _Extensions_ tab in VS Code.
+3. Press the three dots in the top right corner of the _Extensions_ window.
+4. Choose _Install from VSIX…_.
+5. Select the downloaded file.
+6. Hit _Open_.
 
 ## License
 
