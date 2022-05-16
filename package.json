@@ -1,0 +1,38 @@
+{
+    "name": "codegame",
+    "displayName": "CodeGame",
+    "description": "An extension for writing CodeGame applications.",
+    "version": "0.2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/code-game-project/vscode-codegame"
+    },
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "cge",
+                "aliases": [
+                    "CGE",
+                    "cge"
+                ],
+                "extensions": [
+                    ".cge"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "cge",
+                "scopeName": "source.cge",
+                "path": "./syntaxes/cge.tmLanguage.json"
+            }
+        ]
+    }
+}
