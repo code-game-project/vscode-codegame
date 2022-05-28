@@ -1,7 +1,7 @@
 # vscode-codegame
 ![CGE Version](https://img.shields.io/badge/CGE-v0.2-green)
 
-A VS Code extension for writing [CodeGame](https://github.com/code-game-project) applications.
+A VS Code extension for writing [CodeGame](https://code-game.org) applications.
 
 ## Features
 
@@ -20,7 +20,7 @@ A VS Code extension for writing [CodeGame](https://github.com/code-game-project)
 
 MIT License
 
-Copyright (c) 2022 CodeGame Contributors (https://github.com/orgs/code-game-project/people)
+Copyright (c) 2022 CodeGame Contributors (https://code-game.org/contributors)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
