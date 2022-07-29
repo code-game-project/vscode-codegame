@@ -17,7 +17,7 @@
 			"patterns": [
 				{
 					"name": "keyword.cge",
-					"match": "\\b(name|version|event|type|enum)\\b"
+					"match": "\\b(name|version|config|command|event|type|enum)\\b"
 				}
 			]
 		},
