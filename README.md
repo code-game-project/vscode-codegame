@@ -20,7 +20,7 @@ A VS Code extension for writing [CodeGame](https://code-game.org) applications.
 
 MIT License
 
-Copyright (c) 2022 CodeGame Contributors (https://code-game.org/contributors)
+Copyright (c) 2022 vscode-codegame contributors (https://github.com/code-game-project/vscode-codegame/graphs/contributors)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
