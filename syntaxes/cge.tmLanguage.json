@@ -10,6 +10,9 @@
 		},
 		{
 			"include": "#comments"
+		},
+		{
+			"include": "#other"
 		}
 	],
 	"repository": {
@@ -26,6 +29,10 @@
 				{
 					"name": "storage.type.cge",
 					"match": "\\b(string|bool|int|int32|int64|float|float32|float64|map|list)\\b"
+				},
+				{
+					"name": "entity.name.type.cge",
+					"match": "(?<=(:|<)\\s*)\\w+\\b"
 				}
 			]
 		},
@@ -55,6 +62,26 @@
 						}
 					},
 					"end": "(?:\\n|$)"
+				}
+			]
+		},
+		"other": {
+			"patterns": [
+				{
+					"name": "entity.name.function.cge",
+					"match": "(?<=(event|command)\\s+)\\w+\\b"
+				},
+				{
+					"name": "entity.name.type.cge",
+					"match": "(?<=(type|enum)\\s+)\\w+\\b"
+				},
+				{
+					"name": "constant.other.cge",
+					"match": "(?<=(name)\\s+)\\w+\\b"
+				},
+				{
+					"name": "constant.other.cge",
+					"match": "(?<=(version)\\s+)\\d+\\.\\d+\\b"
 				}
 			]
 		}
