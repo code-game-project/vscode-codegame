@@ -25,7 +25,7 @@
 			"patterns": [
 				{
 					"name": "storage.type.cge",
-					"match": "\\b(string|bool|int|int32|int64|bigint|float|float32|float64|map|list)\\b"
+					"match": "\\b(string|bool|int|int32|int64|float|float32|float64|map|list)\\b"
 				}
 			]
 		},
