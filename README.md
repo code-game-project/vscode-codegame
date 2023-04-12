@@ -1,5 +1,5 @@
 # vscode-codegame
-![CGE Version](https://img.shields.io/badge/CGE-v0.4-green)
+![CGE Version](https://img.shields.io/badge/CGE-v0.5-green)
 
 A VS Code extension for writing [CodeGame](https://code-game.org) applications.
 
